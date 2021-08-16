@@ -1,5 +1,5 @@
 ---
-title: 'Google Maglev 简介'
+title: '博文'
 layout: post
 tags:
   - network
