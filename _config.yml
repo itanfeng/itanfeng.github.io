@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Simpleyyt
-subtitle: Yitao's Blog
+title: 采菊东篱下
+subtitle: 悠然见南山
 description: Too simple, sometimes naive.
-author: Simpleyyt
+author: tanfeng
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT, simpleyyt, yitao"
 rss:
 
 # Specify the date when the site was setup
-since: 2015
+since: 2021
 
 # icon between year and author @Footer
 authoricon: heart
