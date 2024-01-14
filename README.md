@@ -1,5 +1,5 @@
-# 记录生活的点点滴滴
+# 我的个人博客
 
-<a href="http://itanfeng.github.io" target="_blank">预览</a>
+<a href="http://itanfeng.github.io" target="_blank">我的个人博客</a>
 
 
